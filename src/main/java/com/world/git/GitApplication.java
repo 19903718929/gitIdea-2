@@ -16,6 +16,7 @@ public class GitApplication {
         System.out.println("develop");
         System.out.println("develop1");
         System.out.println("develop33");
-        System.out.println("push ");
+        System.out.println("push");
+        System.out.println("pullTest");
     }
 }
