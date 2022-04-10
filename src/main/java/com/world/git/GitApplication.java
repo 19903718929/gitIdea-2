@@ -12,6 +12,5 @@ public class GitApplication {
         System.out.println("456");
         System.out.println("789");
         System.out.println("master");
-        System.out.println("develop");
     }
 }
